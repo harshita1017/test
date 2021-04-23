@@ -1,2 +1,2 @@
-# test
-corsera test repositiory
+# AI_projects
+AI and ML repositiory
