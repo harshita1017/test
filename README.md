@@ -1,2 +1,3 @@
-# AI_projects
-AI and ML repositiory
+# test
+a corsera test repo
+
