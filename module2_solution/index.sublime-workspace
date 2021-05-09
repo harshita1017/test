@@ -1,0 +1,317 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"y",
+				"year"
+			],
+			[
+				"m",
+				"month"
+			],
+			[
+				"sum",
+				"sumvec"
+			],
+			[
+				"re",
+				"reverse"
+			],
+			[
+				"ptr",
+				"ptr_ptr"
+			],
+			[
+				"p",
+				"p"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"for",
+				"force"
+			],
+			[
+				"stu",
+				"stu_age"
+			],
+			[
+				"stu_",
+				"stu_name"
+			],
+			[
+				"bi",
+				"binary_search"
+			],
+			[
+				"ios",
+				"iostream\tstandard header"
+			],
+			[
+				"is",
+				"isPrime"
+			],
+			[
+				"ap",
+				"alpha"
+			],
+			[
+				"su",
+				"sum_array"
+			],
+			[
+				"sr",
+				"sqrt"
+			],
+			[
+				"ro",
+				"root2"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Build With: C Single File - Run"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/harshitarathee/Documents/GitHub/test/css/index_css_file.css",
+		"/Users/harshitarathee/Documents/GitHub/test/module2_solution/index.html",
+		"/Users/harshitarathee/test/site/index.html",
+		"/Users/harshitarathee/Documents/GitHub/fullstack-course4/examples/Lecture14/child-selector-after.html",
+		"/Users/harshitarathee/Documents/GitHub/fullstack-course4/FAQ.md",
+		"/Users/harshitarathee/Documents/GitHub/fullstack-course4/.gitignore",
+		"/Users/harshitarathee/Documents/c/project_code_tic_tac_toe.c",
+		"/Users/harshitarathee/Documents/GitHub/fullstack-course4/examples/Lecture20/background-after.html",
+		"/Users/harshitarathee/Documents/java/file1.java",
+		"/Users/harshitarathee/Documents/c/prac_4.c",
+		"/Users/harshitarathee/Documents/c/prac_5.c",
+		"/Users/harshitarathee/Documents/c/file_15.c",
+		"/Users/harshitarathee/Documents/c/file_14.c",
+		"/Users/harshitarathee/Documents/c/file_13.c",
+		"/Users/harshitarathee/Documents/c/file_11.c",
+		"/Users/harshitarathee/Documents/c/file_10.c",
+		"/Users/harshitarathee/Documents/c/file_9.c",
+		"/Users/harshitarathee/Documents/c/file_12.c",
+		"/Users/harshitarathee/Documents/c/file_8.c",
+		"/Users/harshitarathee/Documents/c/prac_3.c",
+		"/Users/harshitarathee/Documents/c++/staircase_search.cpp",
+		"/Users/harshitarathee/Documents/c++/sorting.cpp",
+		"/Users/harshitarathee/Documents/c/file6.c",
+		"/Users/harshitarathee/Documents/dsc1.css",
+		"/Users/harshitarathee/Documents/dcs1.html",
+		"/Users/harshitarathee/Documents/c/prac.c",
+		"/Users/harshitarathee/Documents/c++/arrays1.cpp",
+		"/Users/harshitarathee/Documents/c++/corting.cpp",
+		"/Users/harshitarathee/Documents/c++/functions1.cpp",
+		"/Users/harshitarathee/Documents/c/file5.c",
+		"/Users/harshitarathee/Documents/c/file2.c",
+		"/Users/harshitarathee/Documents/c/file4.c",
+		"/Users/harshitarathee/Documents/c/file3.c",
+		"/Users/harshitarathee/Documents/c/file1.c",
+		"/Users/harshitarathee/Documents/c/prac_2.c",
+		"/Users/harshitarathee/Documents/c/prac_1.c",
+		"/Users/harshitarathee/Documents/atom_prog/file1.c",
+		"/Users/harshitarathee/Desktop/untitled.c",
+		"/Users/harshitarathee/Desktop/c++/file2.cpp",
+		"/Users/harshitarathee/newf/index.html",
+		"/Users/harshitarathee/Desktop/c/Practice/Practice/file2.c",
+		"/Users/harshitarathee/Desktop/pattern problem.cpp",
+		"/file.cpp",
+		"/Users/harshitarathee/Desktop/dsc1.css",
+		"/Users/harshitarathee/Desktop/dcs1.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 148.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C Single File.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 262.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
