@@ -1,3 +1,4 @@
-# test
-a corsera test repo
+# corsera_submissions
+HTML, CSS, and Javascript for Web Developers course
+
 
